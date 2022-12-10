@@ -14,3 +14,9 @@ ___
 * Blender Basics
 >
 ___
+##### Code example: ####
+There is no sample code.
+___
+#### Courses: ####
+I didn't watch the courses.
+___
